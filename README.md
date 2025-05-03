@@ -1,1 +1,24 @@
-# test
+{
+    "Title": "",
+    "Description": "awd",
+    "Link": "",
+    "ColorWave": "#ffd600",
+    "Color": "#ffa500",
+    "ColorWaveTwo": "#fdd835",
+    "ColorBackGround": "#ffffff",
+    "TitleGravity": "center",
+    "MessageGravity": "center",
+    "ColorMessage": "#000000",
+    "ColorTitle": "#000000",
+    "ColorBtn": "#ffffff",
+    "ColorBtnBg": "#00a043",
+    "ColorBtnCancell": "#ffffff",
+    "ColorBtnCancellBg": "#e90000",
+    "Cancellable": "false",
+    "MessageID": "",
+    "ShowTime": "",
+    "Button": "",
+    "ButtonCancell": "",
+    "Closure": "true",
+    "Show": "off"
+}
